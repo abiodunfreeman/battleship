@@ -1,0 +1,22 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bornduringwar/battleship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bornduringwar/battleship/issues"
+  },
+  "homepage": "https://github.com/bornduringwar/battleship#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}
